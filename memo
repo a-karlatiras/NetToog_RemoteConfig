@@ -2,9 +2,11 @@
 Στην NetToogClientForm : private static final String SERVER_IP = "127.0.0.1"; //"34.40.119.115"; //
 Στο android-config.json "host": "192.168.1.8",
 
-Μεserver Google 
+Με server Google 
 Στην NetToogClientForm : private static final String SERVER_IP = "34.40.119.115"; // "127.0.0.1"; //
 Στο android-config.json "host": "34.40.119.115",
+
+αλλαγή της ip:34.40.119.115 στο free domain που έφτιαξα nettoog.duckdns.org
 
 Σε κάθε περίπτωση όμως
 Το "port": 5000 πάντα
