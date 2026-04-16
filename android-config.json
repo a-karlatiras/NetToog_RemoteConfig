@@ -1,5 +1,5 @@
 {
-  "host": "34.40.119.115",
+  "host": "nettoog.duckdns.org",
   "port": 5000,
   "connect_timeout_ms": 5000,
   "notify_manual_reconnect_delay_ms": 500,
