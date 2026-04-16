@@ -11,3 +11,14 @@
 Σε κάθε περίπτωση όμως
 Το "port": 5000 πάντα
 
+πριν τις αλλαγές
+{
+  "host": "nettoog.duckdns.org",
+  "port": 5000,
+  "connect_timeout_ms": 5000,
+  "notify_manual_reconnect_delay_ms": 500,
+  "notify_initial_reconnect_delay_ms": 1500,
+  "notify_max_reconnect_delay_ms": 30000,
+  "notify_reconnect_jitter_ms": 400,
+  "config_version": 1
+}
