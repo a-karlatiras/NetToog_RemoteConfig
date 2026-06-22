@@ -6,5 +6,5 @@
   "notify_initial_reconnect_delay_ms": 1500,
   "notify_max_reconnect_delay_ms": 30000,
   "notify_reconnect_jitter_ms": 400,
-  "config_version": 1
+  "config_version": 2
 }
