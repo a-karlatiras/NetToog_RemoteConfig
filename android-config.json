@@ -2,9 +2,21 @@
   "host": "nettoog.duckdns.org",
   "port": 5000,
   "connect_timeout_ms": 5000,
+
   "notify_manual_reconnect_delay_ms": 3000,
   "notify_initial_reconnect_delay_ms": 2000,
   "notify_max_reconnect_delay_ms": 15000,
   "notify_reconnect_jitter_ms": 500,
-  "config_version": 1
+
+  "config_version": 2,
+
+  "latest_version_code": 20,
+  "latest_version_name": "2.0",
+  "min_supported_version_code": 0,
+
+  "apk_url": "",
+
+  "force_update": false,
+
+  "update_message": "Υπάρχει διαθέσιμη νέα έκδοση του NetToog."
 }
