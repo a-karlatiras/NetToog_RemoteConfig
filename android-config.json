@@ -11,8 +11,8 @@
   "config_version": 3,
 
   "update_enabled": false,
-  "latest_version_code": 23,
-  "latest_version_name": "2.3",
+  "latest_version_code": 24,
+  "latest_version_name": "2.4",
   "min_supported_version_code": 0,
   "force_update": false,
 
