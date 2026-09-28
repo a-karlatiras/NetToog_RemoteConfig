@@ -16,7 +16,7 @@
   "min_supported_version_code": 0,
   "force_update": false,
 
-  "apk_url": "https://github.com/a-karlatiras/NetToog_RemoteConfig/releases/download/v2.3/NetToog.v2.3.apk",
+  "apk_url": "https://github.com/a-karlatiras/NetToog_RemoteConfig/releases/download/v2.4/NetToog.v2.4.apk",
   "apk_size_bytes": 6269561,
   "apk_sha256": "5613fe5c9680ecbcd5cba6283e482d616001d35eb636f89c760dfa6e02afafa1",
   "update_message": "Υπάρχει διαθέσιμη νέα έκδοση του NetToog."
