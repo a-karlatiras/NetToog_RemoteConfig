@@ -8,5 +8,16 @@
   "notify_max_reconnect_delay_ms": 15000,
   "notify_reconnect_jitter_ms": 500,
 
-  "config_version": 1
+  "config_version": 3,
+
+  "update_enabled": false,
+  "latest_version_code": 23,
+  "latest_version_name": "2.3",
+  "min_supported_version_code": 0,
+  "force_update": false,
+
+  "apk_url": "https://github.com/a-karlatiras/NetToog_RemoteConfig/releases/download/v2.3/NetToog.v2.3.apk",
+  "apk_size_bytes": 0,
+  "apk_sha256": "",
+  "update_message": "Υπάρχει διαθέσιμη νέα έκδοση του NetToog."
 }
