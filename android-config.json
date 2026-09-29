@@ -10,7 +10,7 @@
 
   "config_version": 3,
 
-  "update_enabled": false,
+  "update_enabled": true,
   "latest_version_code": 25,
   "latest_version_name": "2.5",
   "min_supported_version_code": 0,
